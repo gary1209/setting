@@ -1,0 +1,13 @@
+C : crtl
+M : alt
+
+[line]
+C + a // move to the front 
+C + e // move to the end
+C + k // delete line
+C + l // clear the screen
+
+[word]
+M + f // move forward a word
+M + b // move backward a word
+M + d // delete a word
